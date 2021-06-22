@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 ##### Some of my favorite open source projects
 
 [![Tasmota](https://img.shields.io/badge/-Tasmota-444444?style=flat&logo=Tasmota)](http://tasmota.com)
+[![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-444444?style=flat&logo=homeassistant)](https://www.home-assistant.io/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+
 
 <!-- GitHub Stats -->
 <p align="center">
