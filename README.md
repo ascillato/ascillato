@@ -47,4 +47,17 @@ Here are some ideas to get you started:
   <br>
   <br>
   <em>NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of what languages my account repositories have.</em>
-</p>   
+</p>
+
+![Visitor Count](https://page-views.glitch.me/badge?page_id=ascillato_readme)                                            
+                                            
+                                            
+<!-- To Do Ideas
+      
+  Add LinkedIn profile
+  Projects
+                                            
+                                            
+                                            
+-->                                          
+
