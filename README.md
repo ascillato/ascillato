@@ -28,7 +28,7 @@ Here are some ideas to get you started:
        width="30px">
 </h2>
 
-##### Hi, I'm Adrian:
+##### I'm Adrian:
 
 - 💻 Software and Hardware Engineer | Smart Home and IoT Developer | Open-Source Contributor | Energy Efficiency and Sustainability Enthusiast
 - :speech_balloon: You can ask me about Smart Home Automation, IoT, Embedded Systems, or literally anything!
