@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ##### Hi, I'm Adrian:
 
-- :speech_balloon: Ask me about Smart Home Automation, IoT, Embedded Systems, or literally anything!
+- 💻 Software and Hardware Engineer | Smart Home and IoT Developer | Open-Source Contributor | Energy Efficiency and Sustainability Enthusiast
+- :speech_balloon: You can ask me about Smart Home Automation, IoT, Embedded Systems, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-scillato/)
