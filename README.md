@@ -5,10 +5,10 @@
 
 Profile README FILE for GitHub.
 
-example: https://github.com/Lunox-code
-example code: https://github.com/Lunox-code/Lunox-code
-more options at: https://github.com/anuraghazra/github-readme-stats
-more examples at: https://github.com/kautukkundan/Awesome-Profile-README-templates
+Profile example: https://github.com/Lunox-code
+Profile example code: https://github.com/Lunox-code/Lunox-code
+more Profile options at: https://github.com/anuraghazra/github-readme-stats
+more Profile examples at: https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 Here are some ideas to get you started:
 
