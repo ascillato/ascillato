@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 ##### Some of the technologies I have worked with
 
