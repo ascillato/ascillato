@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)
+![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=android)
 
 ##### Some of my favorite open source projects
 
