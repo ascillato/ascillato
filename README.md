@@ -50,11 +50,15 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows)
 ![TCP/IP](https://img.shields.io/badge/-WiFi%20&%20TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)
 ![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=android)
-![esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
+![Esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
+![JSON](https://img.shields.io/badge/-JSON-222222?style=flat&logo=json)
+![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
+![ARDUINO](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
 
 ##### Some of my favorite open source projects
 
