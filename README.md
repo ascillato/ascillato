@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   </a>
   <br/>
   <br/>
-  <em>NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of what languages my account repositories have.</em>
+  <em>NOTE: <b>Most Used Languages</b> don't indicate my skill level or something like that, it's a GitHub metric of what languages my account repositories have.</em>
 </p>
 
 ![Visitor Count](https://page-views.glitch.me/badge?page_id=ascillato_readme)                                            
