@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ![JSON](https://img.shields.io/badge/-JSON-222222?style=flat&logo=json)
 ![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
 ![ARDUINO](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
+![KNX](https://img.shields.io/badge/-KNX-222222?style=flat&logo=KNX)
 
 ##### Some of my favorite open source projects
 
