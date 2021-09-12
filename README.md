@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=Amazon)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)
 ![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=android)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
 ![Esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
 ![JSON](https://img.shields.io/badge/-JSON-222222?style=flat&logo=json)
 ![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
