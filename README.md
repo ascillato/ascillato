@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 ##### Some of the technologies I have worked with
 
@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows)
 ![TCP/IP](https://img.shields.io/badge/-WiFi%20&%20TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=Firebase)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=Amazon)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)
 ![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=android)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
 ![JSON](https://img.shields.io/badge/-JSON-222222?style=flat&logo=json)
 ![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
