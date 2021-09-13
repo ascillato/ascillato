@@ -36,14 +36,17 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-scillato/)
 
-##### Languages I use
+##### Some of the languages and frameworks I have worked with
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![DJANGO](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 
 ##### Some of the technologies I have worked with
 
@@ -62,6 +65,8 @@ Here are some ideas to get you started:
 ![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
 ![ARDUINO](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
 ![KNX](https://img.shields.io/badge/-KNX-222222?style=flat&logo=KNX)
+![MATLAB](https://img.shields.io/badge/-Matlab-222222?style=flat&logo=matlab)
+![OFFICE](https://img.shields.io/badge/-Office-222222?style=flat&logo=office)
 
 ##### Some of my favorite open source projects
 
