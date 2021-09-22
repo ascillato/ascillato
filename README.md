@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![AJAX](https://img.shields.io/badge/-AJAX-000000?style=flat&logo=ajax)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![DJANGO](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![VBA](https://img.shields.io/badge/-VBA-000000?style=flat&logo=vba)
 
 ##### Some of the technologies I have worked with
 
